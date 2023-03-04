@@ -1,0 +1,1 @@
+The Active Directory Domain Service (AD DS) is at the center of a Windows Domain. It serves as a directory that stores information on all the objects on the network, including users, groups, machines, printers, and shares. AD DS is a critical component of managing a Windows network.
